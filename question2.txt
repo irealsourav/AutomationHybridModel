@@ -1,0 +1,12 @@
+Scenarios:: Question 2::
+
+1. Verify whether mqtt broker connection is successful or not.
+2. Verify the flight status data ,by calling mqtt broker server directly , (preferably in json format) is matching with the data shown in the webUI
+3. Verify the Flight number received from mqtt broker server is present in the WebUI
+4. Verify startlocation and destinationlocation data for a particular flight is same with data received from Matt broker server and data shown in the WebUI
+5. Verify StartTime and DestinationTime data for a particular flight  is same with data received from Matt broker server as the data shown in the WebUI
+6. Verify the filter functionality is working properly with Flight data
+7. Verify whether sort functionality is present or not
+8. Verify other fields whether they are appearing in WebUI in correct format like timestamp should be in UTC time stamp format
+9. Verify all the fields are showing  in correct type in WebUI
+10. Verify detailed description of current flight status of a particular flight between  the response and the WebU:I
