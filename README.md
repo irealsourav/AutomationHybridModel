@@ -1,2 +1,2 @@
 # AutomationHybridModel
-Automation project with mqtt broker coneection and selenium webdriver
+Automation project with mqtt broker connection and selenium webdriver
