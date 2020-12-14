@@ -23,5 +23,5 @@ Project Structure ::
 N.B :: Could not implement BDD framework due to shortage of time.
 
 Question 2 ::
-I have created a file with the name 
+I have created a file with the name question2.txt and there I have mentioned the scenarios for the 2nd question of the assignment.
 
